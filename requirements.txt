@@ -13,6 +13,7 @@ pandas
 plotly
 pre-commit
 pycocoevalcap
+pyproject
 pycocotools
 python-magic
 scikit-image
